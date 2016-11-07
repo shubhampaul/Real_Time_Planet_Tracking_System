@@ -253,13 +253,13 @@ double d, dfrac, dno;
 int pno = 9;
 //int dd, mm, yy, hh, mu;
 //double Lat, Long;
-double Lat = 12.82;
-double Long = 80.04;
-int yy = 2016;
-int mu = 5;
-int dd = 4;
-int hh = 3;
-int mm = 30;
+double Lat = 12.82;     // Temporary initialization 
+double Long = 80.04;    // Temporary initialization
+int yy = 2016;          // Temporary initialization
+int mu = 5;             // Temporary initialization
+int dd = 4;             // Temporary initialization
+int hh = 3;             // Temporary initialization
+int mm = 30;            // Temporary initialization
 int ct;
 double Azimuth, Elevation;
 float pitch, yaw, roll;
