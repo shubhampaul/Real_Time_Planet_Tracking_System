@@ -12,3 +12,5 @@ https://paulplusx.wordpress.com/2016/03/01/rtpts/
 # planetfinder
 A small program to calculate the 
 RA and declination of the pplanets in our solar system
+
+Code developed by @samhitaganguly and @shubhampaul
