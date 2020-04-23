@@ -7,7 +7,7 @@ To simplify MPU9250 operations using filters and understand how auto-calibration
 To use the above data to power a pan-tilt mechanism <br>
 
 Here is the link for my project :
-https://paulplusx.wordpress.com/2016/03/01/rtpts/
+https://paulsite.com/real_time_planet_tracking_system/
 
 # planetfinder
 A small program to calculate the 
