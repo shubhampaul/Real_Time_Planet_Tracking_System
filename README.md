@@ -13,4 +13,4 @@ https://paulsite.com/real_time_planet_tracking_system/
 A small program to calculate the 
 RA and declination of the pplanets in our solar system
 
-Code developed by @samhitaganguly and @shubhampaul
+Code developed by <a href="https://github.com/samhita-ganguly">Samhita Ganguly</a> and <a href="https://github.com/shubhampaul">Shubham Paul</a>
