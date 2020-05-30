@@ -13,6 +13,8 @@ https://paulsite.com/real_time_planet_tracking_system/
 A small program to calculate the 
 RA and declination of the pplanets in our solar system
 
+https://paulsite.com/calculation_of_right_ascension_and_declination/
+
 <hr>
 
 Code developed by <a href="https://github.com/samhita-ganguly">Samhita Ganguly</a> and <a href="https://github.com/shubhampaul">Shubham Paul</a>
