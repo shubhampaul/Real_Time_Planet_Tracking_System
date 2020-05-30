@@ -1,5 +1,5 @@
 # RTPT
-RTPT or Real Time Planet Tracking System.It tracks planets using keplers laws and osculating elements and uses MPU9250 for Yaw auto Calibration and GPS to get user's location to feed data to the keplers algorithms for planet tracking.
+RTPT or Real Time Planet Tracking System. It tracks planets using keplers laws and osculating elements and uses MPU9250 for Yaw auto Calibration and GPS to get user's location to feed data to the keplers algorithms for planet tracking.
 
 The purpose of this project is : <br>
 To familiarize public with Kepler's Laws and Apply it for Planet Tracking <br>
