@@ -6,14 +6,14 @@ To familiarize public with Kepler's Laws and Apply it for Planet Tracking <br>
 To simplify MPU9250 operations using filters and understand how auto-calibration works <br>
 To use the above data to power a pan-tilt mechanism <br>
 
-Here is the link for our project :
-https://paulsite.com/real_time_planet_tracking_system/
+Here is the link to our project :
+https://paulplusx.wordpress.com/2016/03/01/rtpts/
 
 # planetfinder
 A small program to calculate the 
 RA and declination of the pplanets in our solar system
 
-https://paulsite.com/calculation_of_right_ascension_and_declination/
+https://paulplusx.wordpress.com/2016/03/02/rtpts_azalt/
 
 <hr>
 
